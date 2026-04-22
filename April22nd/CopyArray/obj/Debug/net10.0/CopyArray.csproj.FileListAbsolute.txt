@@ -1,0 +1,14 @@
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\bin\Debug\net10.0\CopyArray.exe
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\bin\Debug\net10.0\CopyArray.deps.json
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\bin\Debug\net10.0\CopyArray.runtimeconfig.json
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\bin\Debug\net10.0\CopyArray.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\bin\Debug\net10.0\CopyArray.pdb
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\obj\Debug\net10.0\CopyArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\obj\Debug\net10.0\CopyArray.AssemblyInfoInputs.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\obj\Debug\net10.0\CopyArray.AssemblyInfo.cs
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\obj\Debug\net10.0\CopyArray.csproj.CoreCompileInputs.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\obj\Debug\net10.0\CopyArray.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\obj\Debug\net10.0\refint\CopyArray.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\obj\Debug\net10.0\CopyArray.pdb
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\obj\Debug\net10.0\CopyArray.genruntimeconfig.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\CopyArray\obj\Debug\net10.0\ref\CopyArray.dll

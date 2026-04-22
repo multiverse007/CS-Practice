@@ -1,0 +1,14 @@
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\bin\Debug\net10.0\MatrixMulti.exe
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\bin\Debug\net10.0\MatrixMulti.deps.json
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\bin\Debug\net10.0\MatrixMulti.runtimeconfig.json
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\bin\Debug\net10.0\MatrixMulti.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\bin\Debug\net10.0\MatrixMulti.pdb
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\obj\Debug\net10.0\MatrixMulti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\obj\Debug\net10.0\MatrixMulti.AssemblyInfoInputs.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\obj\Debug\net10.0\MatrixMulti.AssemblyInfo.cs
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\obj\Debug\net10.0\MatrixMulti.csproj.CoreCompileInputs.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\obj\Debug\net10.0\MatrixMulti.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\obj\Debug\net10.0\refint\MatrixMulti.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\obj\Debug\net10.0\MatrixMulti.pdb
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\obj\Debug\net10.0\MatrixMulti.genruntimeconfig.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\MatrixMulti\obj\Debug\net10.0\ref\MatrixMulti.dll

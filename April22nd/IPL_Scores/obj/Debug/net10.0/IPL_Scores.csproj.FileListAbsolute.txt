@@ -1,0 +1,14 @@
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\bin\Debug\net10.0\IPL_Scores.exe
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\bin\Debug\net10.0\IPL_Scores.deps.json
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\bin\Debug\net10.0\IPL_Scores.runtimeconfig.json
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\bin\Debug\net10.0\IPL_Scores.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\bin\Debug\net10.0\IPL_Scores.pdb
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\obj\Debug\net10.0\IPL_Scores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\obj\Debug\net10.0\IPL_Scores.AssemblyInfoInputs.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\obj\Debug\net10.0\IPL_Scores.AssemblyInfo.cs
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\obj\Debug\net10.0\IPL_Scores.csproj.CoreCompileInputs.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\obj\Debug\net10.0\IPL_Scores.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\obj\Debug\net10.0\refint\IPL_Scores.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\obj\Debug\net10.0\IPL_Scores.pdb
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\obj\Debug\net10.0\IPL_Scores.genruntimeconfig.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\IPL_Scores\obj\Debug\net10.0\ref\IPL_Scores.dll
