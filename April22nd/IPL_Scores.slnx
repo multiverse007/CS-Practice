@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="CopyArray/CopyArray.csproj" />
+  <Project Path="IPL_Scores/IPL_Scores.csproj" />
+  <Project Path="MatrixAddition/MatrixAddition.csproj" />
+  <Project Path="MatrixMulti/MatrixMulti.csproj" />
+  <Project Path="MaxEleArray/MaxEleArray.csproj" />
+  <Project Path="Print2dArr/Print2dArr.csproj" />
+  <Project Path="SearchEle/SearchEle.csproj" />
+  <Project Path="SumOfArray/SumOfArray.csproj" />
+  <Project Path="Transpose/Transpose.csproj" />
+</Solution>

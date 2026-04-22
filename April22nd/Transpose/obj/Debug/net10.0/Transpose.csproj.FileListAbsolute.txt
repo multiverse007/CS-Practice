@@ -1,0 +1,14 @@
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\bin\Debug\net10.0\Transpose.exe
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\bin\Debug\net10.0\Transpose.deps.json
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\bin\Debug\net10.0\Transpose.runtimeconfig.json
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\bin\Debug\net10.0\Transpose.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\bin\Debug\net10.0\Transpose.pdb
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\obj\Debug\net10.0\Transpose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\obj\Debug\net10.0\Transpose.AssemblyInfoInputs.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\obj\Debug\net10.0\Transpose.AssemblyInfo.cs
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\obj\Debug\net10.0\Transpose.csproj.CoreCompileInputs.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\obj\Debug\net10.0\Transpose.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\obj\Debug\net10.0\refint\Transpose.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\obj\Debug\net10.0\Transpose.pdb
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\obj\Debug\net10.0\Transpose.genruntimeconfig.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Transpose\obj\Debug\net10.0\ref\Transpose.dll
