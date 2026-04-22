@@ -1,0 +1,14 @@
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\bin\Debug\net10.0\SearchEle.exe
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\bin\Debug\net10.0\SearchEle.deps.json
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\bin\Debug\net10.0\SearchEle.runtimeconfig.json
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\bin\Debug\net10.0\SearchEle.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\bin\Debug\net10.0\SearchEle.pdb
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\obj\Debug\net10.0\SearchEle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\obj\Debug\net10.0\SearchEle.AssemblyInfoInputs.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\obj\Debug\net10.0\SearchEle.AssemblyInfo.cs
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\obj\Debug\net10.0\SearchEle.csproj.CoreCompileInputs.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\obj\Debug\net10.0\SearchEle.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\obj\Debug\net10.0\refint\SearchEle.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\obj\Debug\net10.0\SearchEle.pdb
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\obj\Debug\net10.0\SearchEle.genruntimeconfig.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\SearchEle\obj\Debug\net10.0\ref\SearchEle.dll

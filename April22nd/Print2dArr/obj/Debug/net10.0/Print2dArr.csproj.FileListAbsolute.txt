@@ -1,0 +1,14 @@
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\obj\Debug\net10.0\Print2dArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\obj\Debug\net10.0\Print2dArr.AssemblyInfoInputs.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\obj\Debug\net10.0\Print2dArr.AssemblyInfo.cs
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\obj\Debug\net10.0\Print2dArr.csproj.CoreCompileInputs.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\bin\Debug\net10.0\Print2dArr.exe
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\bin\Debug\net10.0\Print2dArr.deps.json
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\bin\Debug\net10.0\Print2dArr.runtimeconfig.json
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\bin\Debug\net10.0\Print2dArr.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\bin\Debug\net10.0\Print2dArr.pdb
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\obj\Debug\net10.0\Print2dArr.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\obj\Debug\net10.0\refint\Print2dArr.dll
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\obj\Debug\net10.0\Print2dArr.pdb
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\obj\Debug\net10.0\Print2dArr.genruntimeconfig.cache
+C:\Users\nagendra.chappidi\OneDrive - Acuvate Software Private Limited\Documents\Training\april22nd\C#\Print2dArr\obj\Debug\net10.0\ref\Print2dArr.dll
