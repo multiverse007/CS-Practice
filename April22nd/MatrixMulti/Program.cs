@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ConsoleApp
 {
@@ -54,7 +54,12 @@ namespace ConsoleApp
             {
                 for(int j = 0; j < q; j++)
                 {
-                    a3[i, j] = a1[i, j] * a2[i, j];
+                    a3[i, j] = 0;
+
+                    for(int k = 0; k < n; k++)
+                    {
+                        a3[i, j] += a1[i, k] * a2[k, j];
+                    }
                 }
             }
 
